@@ -1,0 +1,10 @@
+c:\users\andreas\source\repos\GameOfLifeGraphicalUI\GameOfLifeGraphicalUI\obj\Debug\GameOfLifeGraphicalUI.csprojAssemblyReference.cache
+c:\users\andreas\source\repos\GameOfLifeGraphicalUI\GameOfLifeGraphicalUI\obj\Debug\GameOfLifeGraphicalUI.Form1.resources
+c:\users\andreas\source\repos\GameOfLifeGraphicalUI\GameOfLifeGraphicalUI\obj\Debug\GameOfLifeGraphicalUI.Properties.Resources.resources
+c:\users\andreas\source\repos\GameOfLifeGraphicalUI\GameOfLifeGraphicalUI\obj\Debug\GameOfLifeGraphicalUI.csproj.GenerateResource.cache
+c:\users\andreas\source\repos\GameOfLifeGraphicalUI\GameOfLifeGraphicalUI\obj\Debug\GameOfLifeGraphicalUI.csproj.CoreCompileInputs.cache
+c:\users\andreas\source\repos\GameOfLifeGraphicalUI\GameOfLifeGraphicalUI\bin\Debug\GameOfLifeGraphicalUI.exe.config
+c:\users\andreas\source\repos\GameOfLifeGraphicalUI\GameOfLifeGraphicalUI\bin\Debug\GameOfLifeGraphicalUI.exe
+c:\users\andreas\source\repos\GameOfLifeGraphicalUI\GameOfLifeGraphicalUI\bin\Debug\GameOfLifeGraphicalUI.pdb
+c:\users\andreas\source\repos\GameOfLifeGraphicalUI\GameOfLifeGraphicalUI\obj\Debug\GameOfLifeGraphicalUI.exe
+c:\users\andreas\source\repos\GameOfLifeGraphicalUI\GameOfLifeGraphicalUI\obj\Debug\GameOfLifeGraphicalUI.pdb
